@@ -1,0 +1,3 @@
+[submodule "jnumpy"]
+	path = jnumpy
+	url = https://github.com/jacobfv/jnumpy
